@@ -1,4 +1,4 @@
-# valina-boilerplate
+# vanila-boilerplate
 
 1. `git clone git@github.com:vmolchanov/vanila-boilerplate.git`.
 2. `git remote set-url origin git@github.com:<username>/<repository-name>`.
